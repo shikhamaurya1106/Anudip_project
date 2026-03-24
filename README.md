@@ -1,5 +1,5 @@
 🚚 Logistics Performance Dashboard ( POWER BI )
-
+-----------------------------------------------------------------------------------------------------------------------------
 📄 Abstract
 
 The Logistics Performance Dashboard is a data visualization project built using Power BI to analyze and monitor logistics operations efficiently. The dashboard provides insights into delivery performance, shipping costs, delays, fuel consumption, and customer satisfaction.
@@ -49,8 +49,6 @@ Data Modeling – Structuring logistics datasets
 
 Data Visualization – Charts, KPI cards, and filters
 
-Business Intelligence (BI) – Performance analysis
-
 Excel / CSV Dataset – Data source for analysis
 
 
@@ -80,11 +78,12 @@ Dataset  – Logistics data used for analysis
 
 Power BI (.pbix) file – Original dashboard file
 
+🖥 Dashboard Preview
 
-## 🖼 Cover Page
-![Cover Page](img/Cover%20Page.png)
-
-## 🖥 Dashboard Preview
-![Dashboard](img/Dashboard%20img.png)
+Cover-Page.png
+Dashboard.png
 
 
+🚀 Author
+
+SHIKHA MAURYA
