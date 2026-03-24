@@ -1,98 +1,69 @@
-LOGISTIC DELIVERY PERFORMANCE DASHBOARD (POWER BI)
+🚚 Logistics Performance Dashboard ( POWER BI )
+📄 Abstract
 
+The Logistics Performance Dashboard is a data visualization project built using Power BI to analyze and monitor logistics operations efficiently. The dashboard provides insights into delivery performance, shipping costs, delays, fuel consumption, and customer satisfaction.
 
-Abstract
-The Logistics Performance Dashboard is a data visualization project created in Power BI to monitor and analyze logistics operations such as deliveries, shipping costs, delays, fuel consumption, and customer satisfaction.
-The dashboard provides a centralized view of logistics performance across multiple cities and regions, helping decision-makers track operational efficiency, identify delays, and improve supply chain performance.
+It transforms raw logistics data into interactive visual reports, helping businesses understand operational performance and identify areas for improvement. The goal of this project is to enable data-driven decision-making in logistics and supply chain management.
 
-By using interactive filters and visual analytics, the dashboard enables quick insights into delivery trends, shipping expenses, warehouse processing time, and service quality.
+📊 Project Overview
 
-📌 Project Overview
+This project focuses on designing an interactive dashboard that tracks key logistics metrics such as deliveries, delays, shipping costs, and regional performance.
 
-This project focuses on analyzing logistics and delivery operations using business intelligence tools. The dashboard presents key metrics like total shipping cost, deliveries completed, delay days, and customer satisfaction score.
+The dashboard allows users to:
 
-Monitor delivery performance across different regions and cities.
-Track logistics costs and operational efficiency.
-Analyze delay reasons and traffic impact.
-Evaluate warehouse processing and driver performance.
+Monitor delivery operations across multiple cities.
+Analyze cost and performance trends.
+Identify delay causes such as traffic or customer unavailability.
+Compare driver performance and regional efficiency.
 
-📊 Key Features
-Delivery Performance Monitoring
-Displays total deliveries completed in a day (625,578 deliveries).
-Shows deliveries by city.
-Shipping Cost Analysis
-Tracks total shipping cost (around 9M).
-Monthly and daily shipping cost trends.
-Customer Satisfaction Insights
-Satisfaction score analysis by month.
-Helps measure service quality.
-Delay Analysis
-Tracks delay days (99,293).
-Shows delay reasons like traffic or customer unavailability.
-Regional Performance Analysis
-Actual delivery time by region (North, East, South, West).
-Driver rating comparison across regions.
-Operational Efficiency Tracking
-Fuel consumption analysis.
-Warehouse processing time by weather conditions.
-Interactive Filters
-City selection.
-Delay reason filters.
-Drill-down capabilities.
+It provides both high-level KPIs and detailed operational insights to support logistics planning and performance monitoring.
 
-🛠 Tools & Technologies 
+⭐ Key Features
+📦 Delivery tracking across cities and regions
+💰 Shipping cost analysis by month and day
+😊 Customer satisfaction score monitoring
+⏱ Delay tracking and delay reason analysis
+🌍 Regional performance comparison
+⛽ Fuel consumption analysis
+🌦 Weather impact on warehouse processing
+📊 Interactive filters for city and delay reasons
+📈 Driver rating analysis by region
+🛠 Tools & Technologies
+Power BI Desktop – Dashboard creation and visualization
+Data Modeling – Structuring logistics datasets
+Data Visualization – Charts, KPI cards, and filters
+Business Intelligence (BI) – Performance analysis
+Excel / CSV Dataset – Data source for analysis
+🔍 Key Insights
 
-Power BI Desktop – Dashboard creation and visualization.
-Data Modeling – Organizing logistics data for analysis.
-Data Visualization – Charts, KPIs, and performance indicators.
-Business Intelligence (BI) – Insights generation.
-Excel / Dataset (likely source) – Raw logistics data processing.
+From the dashboard analysis:
 
-📈 Key Insights
+The logistics system handles 625,578 deliveries in a day, indicating large-scale operations.
+The total shipping cost is around 9M, highlighting operational expenses.
+Delay days (99,293) show the importance of improving delivery efficiency.
+Traffic and customer availability significantly impact delivery times.
+Weather conditions affect warehouse processing and logistics performance.
+Cities like Ahmedabad, Bangalore, Bhubaneswar, Chandigarh, and Chennai contribute significantly to deliveries.
 
-High number of daily deliveries indicates large-scale logistics operations.
-Shipping costs vary across months and days, showing demand fluctuations.
-Traffic and customer unavailability contribute significantly to delays.
-Some regions perform better in delivery time and driver ratings.
-Weather conditions affect warehouse processing time.
-Cities like Ahmedabad, Bangalore, Bhubaneswar, Chandigarh, and Chennai contribute heavily to deliveries.
+📁 Files Included
 
-📂 Files Included 
+Logistic Dashboards.pdf – Exported version of the Power BI dashboard
+README.md – Project documentation
+Dataset (if included) – Logistics data used for analysis
+Power BI (.pbix) file (if included) – Original dashboard file
+🖥 Dashboard Preview
 
-Logistic Dashboards.pdf --> Power BI dashboard
+(Add your dashboard screenshot here)
 
-Dashboard.pbix --> Power BI Dashboard
+![Logistics Dashboard](images/logistics-dashboard.png)
 
-logistic_delivery_dataset.xlsx --> Dashboard dataset
+Example folder structure for GitHub:
 
-
-📷 Dashboard Preview 
-
-The dashboard consists of multiple visual sections:
-
-Main KPIs
-
-Total Shipping Cost
-Customer Satisfaction Score
-Deliveries Today
-Delay Days
-
-Performance Charts
-
-Shipping cost trend by month and day
-Actual delivery time by region
-Driver ratings by region
-Fuel consumption analysis
-
-Operational Analysis
-
-Weather condition impact on traffic
-Warehouse processing time
-SLA breach penalty vs shipping cost
-
-City-Level Data
-
-Delivery count by city
-Warehouse location analysis
-
-
+project-folder
+│
+├── images
+│   └── logistics-dashboard.png
+│
+├── Logistic Dashboards.pdf
+├── README.md
+└── dataset.csv
