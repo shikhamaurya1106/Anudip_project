@@ -81,8 +81,10 @@ Dataset  – Logistics data used for analysis
 Power BI (.pbix) file – Original dashboard file
 
 
-🖥 Dashboard Preview
+## 🖼 Cover Page
+![Cover Page](img/Cover%20Page.png)
 
-![Logistics Dashboard](D:\Anudip foundation\POWER BI\Anudip_project\logistic dashboard\img)
+## 🖥 Dashboard Preview
+![Dashboard](img/Dashboard%20img.png)
 
 
