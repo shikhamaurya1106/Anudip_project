@@ -1,6 +1,7 @@
 LOGISTIC DELIVERY PERFORMANCE DASHBOARD (POWER BI)
-. Abstract
 
+
+Abstract
 The Logistics Performance Dashboard is a data visualization project created in Power BI to monitor and analyze logistics operations such as deliveries, shipping costs, delays, fuel consumption, and customer satisfaction.
 The dashboard provides a centralized view of logistics performance across multiple cities and regions, helping decision-makers track operational efficiency, identify delays, and improve supply chain performance.
 
@@ -9,8 +10,6 @@ By using interactive filters and visual analytics, the dashboard enables quick i
 📌 Project Overview
 
 This project focuses on analyzing logistics and delivery operations using business intelligence tools. The dashboard presents key metrics like total shipping cost, deliveries completed, delay days, and customer satisfaction score.
-
-The dashboard allows users to:
 
 Monitor delivery performance across different regions and cities.
 Track logistics costs and operational efficiency.
@@ -41,7 +40,7 @@ City selection.
 Delay reason filters.
 Drill-down capabilities.
 
-🛠 Tools & Technologies Used
+🛠 Tools & Technologies 
 
 Power BI Desktop – Dashboard creation and visualization.
 Data Modeling – Organizing logistics data for analysis.
@@ -49,7 +48,7 @@ Data Visualization – Charts, KPIs, and performance indicators.
 Business Intelligence (BI) – Insights generation.
 Excel / Dataset (likely source) – Raw logistics data processing.
 
-📈 Key Insights from the Dashboard
+📈 Key Insights
 
 High number of daily deliveries indicates large-scale logistics operations.
 Shipping costs vary across months and days, showing demand fluctuations.
@@ -58,14 +57,11 @@ Some regions perform better in delivery time and driver ratings.
 Weather conditions affect warehouse processing time.
 Cities like Ahmedabad, Bangalore, Bhubaneswar, Chandigarh, and Chennai contribute heavily to deliveries.
 
-📂 Files Included in the Project
+📂 Files Included 
 
-Logistic Dashboards.pdf -- Power BI dashboard
-
-
-
-
-
+Logistic Dashboards.pdf --> Power BI dashboard
+Dashboard.pbix --> Power BI Dashboard
+logistic_delivery_dataset.xlsx --> Dashboard dataset
 
 
 📷 Dashboard Preview 
@@ -96,3 +92,5 @@ City-Level Data
 
 Delivery count by city
 Warehouse location analysis
+
+
